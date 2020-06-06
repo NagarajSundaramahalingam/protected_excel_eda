@@ -24,8 +24,4 @@ Others,
   
 ## EDA Report
 
-  1. [Breast Cancer](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
-  2. [IRIS](https://www.kaggle.com/uciml/iris)
-  3. [Mushrooms](https://www.kaggle.com/uciml/mushroom-classification)
-  4. [Chennai Water Management](https://www.kaggle.com/sudalairajkumar/chennai-water-management)
-  5. [Bengaluru House Data](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data) 
+EDA reports are saved as html file in output folder.
