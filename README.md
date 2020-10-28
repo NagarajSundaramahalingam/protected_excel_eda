@@ -1,4 +1,4 @@
-# Protected Excel & EDA
+# Password protected Excel & EDA
 
 Read protected excel(multiple sheets) with password and perform EDA.
 
