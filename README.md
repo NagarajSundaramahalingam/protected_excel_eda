@@ -1,6 +1,6 @@
 # Password protected Excel & EDA
 
-Read protected excel(multiple sheets) with password and perform EDA.
+Read password protected excel(multiple sheets) and perform EDA.
 
 ## Library
 
